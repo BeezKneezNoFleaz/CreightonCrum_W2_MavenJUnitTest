@@ -17,6 +17,6 @@ public class MessageUtil {
 	public boolean isThisFalse(String message) {
 				return true;
 	}
-	
+	//you need an instance variable that you can check to see if it is true or false
 
 }
