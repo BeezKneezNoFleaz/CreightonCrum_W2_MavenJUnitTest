@@ -16,7 +16,7 @@ public class Fixtures{
 	@Test
 	public void mathTest() {
 		double result = num1 + num2;
-	    assertTrue(result == 12);
+	    assertTrue(result == 12); //if you are testing the equality of something, use the assertEquals( ) assertion
 	    System.out.println("Answer is 12!");
 	    
 	}
